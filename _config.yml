@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Research blog
+description: In this blog I will be posting research performed at the Institute for Advanced Mining Technologies. The goal is to include a combination of literature core to make our research easier to access.
 github_username: pabloms92
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "research-blog"
@@ -40,7 +40,7 @@ baseurl: "/research-blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: fastdotai
-    github: fastai
+    github: pabloms92
 
 # Set this to true to get LaTeX math equation support
 use_math: 
