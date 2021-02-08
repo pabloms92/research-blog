@@ -2,21 +2,13 @@
 layout: page
 title: About Me
 permalink: /about/
+image: images/pablo_light.png
 ---
 
-Currently working at the [AMT](amt.rwth-aachen.de/)
+Currently working at the [AMT](amt.rwth-aachen.de/) as a Research Assistant (_Wissenschaftlicher Mitarbeiter_). 
+
+My field of research is currently Acoustic Emission (AE). There is probably some future research to come in the field of energy in the mining industry with a focus in the Zero emissions mining.
+
 More info comming soon _I guess_
-![AMT](https://www.amt.rwth-aachen.de/files/AMT/layout/logo_headline_left.jpg)
-# Research Projects
 
-# Resume
-
-## Education 
-Lorem Ipsum et amet...
-
-## Wrok life
-Lorem Ipsum et amet...
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+![Pablo](images/pablo_light.png)
