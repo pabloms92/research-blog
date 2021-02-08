@@ -11,4 +11,4 @@ My field of research is currently Acoustic Emission (AE). There is probably some
 
 More info comming soon _I guess_
 
-![Pablo](images/pablo_light.png)
+![Pablo](../images/pablo_light.png)
