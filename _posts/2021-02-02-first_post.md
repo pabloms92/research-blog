@@ -13,3 +13,5 @@ For this I will address the following points:
 
 - Blogging in DataScience
 - Publications shared in a more user friendly way
+
+Adding info
